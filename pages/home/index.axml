@@ -1,0 +1,4 @@
+
+<web-view id="web-view-1" src="http://www.gd-ldj.com" onMessage="test">
+  访问受限，请浏览器打开
+</web-view>

@@ -1,0 +1,9 @@
+<view class="card" data-url="/pages/home/index"  onTap="changeRouter">
+    <image class="bg" src="../../../img/bg.jpg" mode="widthFix" />
+    <image class="logo" src="../../../img/ldj.jpg" mode="widthFix" />
+    <view class="info">
+      <view class="name">李德举</view>
+      <view class="desc">前端开发工程师</view>
+      <view class="work">http://www.gd-ldj.com</view>
+  </view>
+  </view>

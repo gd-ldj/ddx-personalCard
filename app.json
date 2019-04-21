@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/index"
+  ],
+  "window": {
+    "defaultTitle": "李德举"
+  }
+}
